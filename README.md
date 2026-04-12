@@ -28,10 +28,10 @@ I'm a **Backend / Fullstack Developer** focused on building scalable microservic
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
 ## 🚀 Key Expertise
-* **Microservices**: Building robust backends using Nest.js, TypeScript, and RabbitMQ for inter-service communication[cite: 48, 60].
-* **Data Engineering**: Handling complex ETL tasks, GeoJSON/Shapefile processing, and SQL optimization[cite: 35, 61, 89].
-* **API Development**: Designing well-documented REST APIs with Swagger and managing database logic via Sequelize/TypeORM[cite: 63, 82].
-* **Real-time Apps**: Implementing live synchronization and interactive features via WebSockets and MobX[cite: 48, 51, 84].
+* **Microservices**: Building robust backends using Nest.js, TypeScript, and RabbitMQ for inter-service communication.
+* **Data Engineering**: Handling complex ETL tasks, GeoJSON/Shapefile processing, and SQL optimization.
+* **API Development**: Designing well-documented REST APIs with Swagger and managing database logic via Sequelize/TypeORM.
+* **Real-time Apps**: Implementing live synchronization and interactive features via WebSockets and MobX.
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/xawnemo)
